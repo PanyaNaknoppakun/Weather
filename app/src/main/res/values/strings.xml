@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Weather</string>
+    <string name="h_31_l_23_">H: 31\u00B0 L: 23\u00B0</string>
+    <string name="clear_sky">Clear Sky</string>
+    <string name="rain">🌧️</string>
+    <string name="day">☀️</string>
+    <string name="night">🌙</string>
+    <string name="sunset">Sunset</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="humidity">Humidity</string>
+    <string name="synced_at">Synced at</string>
+    <string name="humidity_value">%d%%</string>
+    <string name="temperature_h_l">H: %1$d\u00B0 L: %2$d\u00B0</string>
+    <string name="loading">Loading</string>
+    <string name="error">Error</string>
+    <string name="cannot_reach_the_server">Cannot reach the server</string>
+    <string name="temperature">%d\u00B0</string>
 </resources>
